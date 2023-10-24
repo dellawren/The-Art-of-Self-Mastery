@@ -4,18 +4,18 @@
 
 ## Required
 
-### `http://theartofselfmastery.netlify.app`
+### `https://theartofselfmastery.netlify.app`
 URL to your netlify site.
 
-### `https://github.com/dellawren/the-art-of-self-mastery`
+### `https://github.com/dellawren/The-Art-of-Self-Mastery`
 GitHub repo URL where your Markdown files are hosted.
 
-### `LANDING_PAGE=/Documents/Self-Mastery/The-Art-of-Self-Mastery/Landing-Page.md`
+### `\Self-Mastery\The-Art-of-Self-Mastery\Landing-Page.md`
 The Markdown file to use as your landing page when home page landing button is clicked. Note that if `SLUGIFY` is turned on (default is on), you need to slugify the folder name here. E.g. if you are using `/somewhere far/some funny note.md` as landing page, enter `LANDING_PAGE=/somewhere-far/some-funny-note.md`.
 
 ## Optional
 
-### `The Art of Self Mastery`
+### `SITE_TITLE`
 Site title on landing page. HTML, CSS, emojis supported. Default: "Someone's Second 🧠".
 
 ### `SITE_TITLE_TAB`
